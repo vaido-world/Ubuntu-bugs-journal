@@ -15,6 +15,8 @@ https://forums.linuxmint.com/viewtopic.php?t=232889
 
 key: Juniper PRO [Radeon HD 5750] linux fan loud speed
 
+https://askubuntu.com/questions/174905/opensource-ati-driver-fan-running-at-full-speed-all-the-time
+
 #### Identify Hardware on Linux
 `lspci`
 https://www.cyberciti.biz/faq/linux-tell-which-graphics-vga-card-installed/
