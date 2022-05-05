@@ -10,7 +10,9 @@ Steps to Reproduce:
 
 
 #### Juniper PRO [Radeon HD 5750]  Graphics Card fan is too loud.
-https://help.ubuntu.com/community/RadeonDriver
+https://help.ubuntu.com/community/RadeonDriver  
+https://forums.linuxmint.com/viewtopic.php?t=232889  
+
 
 
 #### Identify Hardware on Linux
