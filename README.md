@@ -26,3 +26,5 @@ lspci -nn | grep -E 'VGA|Display'
 
 #### `Gnome Print Screen Screencast` does not have sound recording.
 Gnome Print Screen Video Recording.
+
+#### Install VLC and Change file associations for  .mp4 and .webm
