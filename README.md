@@ -9,5 +9,10 @@ Steps to Reproduce:
 **Quick solution:** Activate "Use System Title and Borders".
 
 
-# Juniper PRO [Radeon HD 5750]  Graphics Card fan is too loud.
+#### Juniper PRO [Radeon HD 5750]  Graphics Card fan is too loud.
 https://help.ubuntu.com/community/RadeonDriver
+
+
+#### Identify Hardware on Linux
+`lspci`
+https://www.cyberciti.biz/faq/linux-tell-which-graphics-vga-card-installed/
