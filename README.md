@@ -43,3 +43,8 @@ Gnome Print Screen Video Recording.
 
 
 ### Slow mouse scrolling speed using mouse scroll on Google Chrome.
+
+Useless: `PROTON_NO_D3D10=1 -w 1920 -h 1080 -fullscreen  -dxlevel 80 -soft`
+### Company of Heroes
+https://steamcommunity.com/app/228200/discussions/0/3620268551242934354/
+https://github.com/ValveSoftware/Proton/issues/1395
