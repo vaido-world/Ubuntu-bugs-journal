@@ -48,3 +48,8 @@ Useless: `PROTON_NO_D3D10=1 -w 1920 -h 1080 -fullscreen  -dxlevel 80 -soft`
 ### Company of Heroes
 https://steamcommunity.com/app/228200/discussions/0/3620268551242934354/
 https://github.com/ValveSoftware/Proton/issues/1395
+
+Crackling sound:
+
+
+`sudo apt-get install -y pavucontrol` mute and unmute output device
