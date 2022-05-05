@@ -13,7 +13,7 @@ Steps to Reproduce:
 https://help.ubuntu.com/community/RadeonDriver | Already preinstalled on Ubuntu   
 https://forums.linuxmint.com/viewtopic.php?t=232889  
 
-
+key: Juniper PRO [Radeon HD 5750] linux fan loud speed
 
 #### Identify Hardware on Linux
 `lspci`
