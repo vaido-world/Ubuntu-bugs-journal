@@ -9,13 +9,21 @@ Steps to Reproduce:
 **Quick solution:** Activate "Use System Title and Borders".
 
 
-#### Juniper PRO [Radeon HD 5750]  Graphics Card fan is too loud.
+### Juniper PRO [Radeon HD 5750]  Graphics Card fan is too loud.
 https://help.ubuntu.com/community/RadeonDriver | Already preinstalled on Ubuntu   
 https://forums.linuxmint.com/viewtopic.php?t=232889  
 
 key: Juniper PRO [Radeon HD 5750] linux fan loud speed
 
 https://askubuntu.com/questions/174905/opensource-ati-driver-fan-running-at-full-speed-all-the-time
+
+#### Monitor Radeon Graphics Cards
+https://linuxhint.com/apps-monitor-amd-gpu-linux/
+```
+sudo add-apt-repository ppa:radeon-profile/stable
+sudo apt update
+sudo apt install radeon-profile
+```
 
 #### Identify Hardware on Linux
 `lspci`
