@@ -24,6 +24,8 @@ sudo add-apt-repository ppa:radeon-profile/stable
 sudo apt update
 sudo apt install radeon-profile
 ```
+![image](https://user-images.githubusercontent.com/21064622/166885660-0ba4d23e-0e33-4f8e-9660-1b38bd3de3f2.png)
+
 
 #### Identify Hardware on Linux
 `lspci`
