@@ -24,4 +24,4 @@ lspci -nn | grep -E 'VGA|Display'
 ```
 
 
-#### Gnome Print Screen Video Recording function does not have sound recording.
+#### `Gnome Print Screen Video Recording` function does not have sound recording.
