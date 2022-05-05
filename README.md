@@ -18,3 +18,7 @@ https://forums.linuxmint.com/viewtopic.php?t=232889
 #### Identify Hardware on Linux
 `lspci`
 https://www.cyberciti.biz/faq/linux-tell-which-graphics-vga-card-installed/
+
+```
+lspci -nn | grep -E 'VGA|Display'
+```
