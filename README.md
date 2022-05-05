@@ -22,3 +22,6 @@ https://www.cyberciti.biz/faq/linux-tell-which-graphics-vga-card-installed/
 ```
 lspci -nn | grep -E 'VGA|Display'
 ```
+
+
+#### Gnome Print Screen Video Recording function does not have sound recording.
