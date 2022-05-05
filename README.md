@@ -40,3 +40,6 @@ lspci -nn | grep -E 'VGA|Display'
 Gnome Print Screen Video Recording.
 
 #### Install VLC and Change file associations for  .mp4 and .webm
+
+
+### Slow mouse scrolling speed using mouse scroll on Google Chrome.
